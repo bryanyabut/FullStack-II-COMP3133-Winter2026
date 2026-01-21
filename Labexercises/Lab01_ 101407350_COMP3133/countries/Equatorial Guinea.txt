@@ -1,0 +1,12 @@
+Equatorial Guinea,1952,216964
+Equatorial Guinea,1957,232922
+Equatorial Guinea,1967,259864
+Equatorial Guinea,1962,249220
+Equatorial Guinea,1982,285483
+Equatorial Guinea,1987,341244
+Equatorial Guinea,1977,192675
+Equatorial Guinea,1992,387838
+Equatorial Guinea,2002,495627
+Equatorial Guinea,1997,439971
+Equatorial Guinea,1972,277603
+Equatorial Guinea,2007,551201

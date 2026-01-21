@@ -1,0 +1,12 @@
+El Salvador,1952,2042865
+El Salvador,1957,2355805
+El Salvador,1962,2747687
+El Salvador,1972,3790903
+El Salvador,1967,3232927
+El Salvador,1987,4842194
+El Salvador,1992,5274649
+El Salvador,1977,4282586
+El Salvador,1997,5783439
+El Salvador,1982,4474873
+El Salvador,2002,6353681
+El Salvador,2007,6939688

@@ -1,0 +1,12 @@
+Trinidad and Tobago,1952,662850
+Trinidad and Tobago,1957,764900
+Trinidad and Tobago,1967,960155
+Trinidad and Tobago,1962,887498
+Trinidad and Tobago,1977,1039009
+Trinidad and Tobago,1987,1191336
+Trinidad and Tobago,1972,975199
+Trinidad and Tobago,1992,1183669
+Trinidad and Tobago,2002,1101832
+Trinidad and Tobago,1997,1138101
+Trinidad and Tobago,1982,1116479
+Trinidad and Tobago,2007,1056608

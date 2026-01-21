@@ -1,0 +1,12 @@
+Montenegro,1952,413834
+Montenegro,1962,474528
+Montenegro,1957,442829
+Montenegro,1967,501035
+Montenegro,1972,527678
+Montenegro,1977,560073
+Montenegro,1992,621621
+Montenegro,1982,562548
+Montenegro,2002,720230
+Montenegro,2007,684736
+Montenegro,1987,569473
+Montenegro,1997,692651

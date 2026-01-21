@@ -1,0 +1,12 @@
+New Zealand,1952,1994794
+New Zealand,1957,2229407
+New Zealand,1962,2488550
+New Zealand,1972,2929100
+New Zealand,1982,3210650
+New Zealand,1987,3317166
+New Zealand,1977,3164900
+New Zealand,1992,3437674
+New Zealand,1967,2728150
+New Zealand,1997,3676187
+New Zealand,2002,3908037
+New Zealand,2007,4115771

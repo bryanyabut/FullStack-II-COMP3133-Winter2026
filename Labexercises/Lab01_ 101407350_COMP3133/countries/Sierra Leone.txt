@@ -1,0 +1,12 @@
+Sierra Leone,1952,2143249
+Sierra Leone,1972,2879013
+Sierra Leone,1957,2295678
+Sierra Leone,1977,3140897
+Sierra Leone,1967,2662190
+Sierra Leone,1982,3464522
+Sierra Leone,1962,2467895
+Sierra Leone,1992,4260884
+Sierra Leone,2007,6144562
+Sierra Leone,1987,3868905
+Sierra Leone,2002,5359092
+Sierra Leone,1997,4578212

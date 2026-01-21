@@ -1,0 +1,12 @@
+Philippines,1952,22438691
+Philippines,1957,26072194
+Philippines,1967,35356600
+Philippines,1962,30325264
+Philippines,1982,53456774
+Philippines,1987,60017788
+Philippines,1972,40850141
+Philippines,1992,67185766
+Philippines,2002,82995088
+Philippines,2007,91077287
+Philippines,1977,46850962
+Philippines,1997,75012988

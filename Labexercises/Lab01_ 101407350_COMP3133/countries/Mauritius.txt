@@ -1,0 +1,12 @@
+Mauritius,1957,609816
+Mauritius,1952,516556
+Mauritius,1967,789309
+Mauritius,1987,1042663
+Mauritius,1977,913025
+Mauritius,1972,851334
+Mauritius,1992,1096202
+Mauritius,1997,1149818
+Mauritius,1962,701016
+Mauritius,2007,1250882
+Mauritius,2002,1200206
+Mauritius,1982,992040

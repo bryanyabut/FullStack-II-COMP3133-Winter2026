@@ -1,0 +1,12 @@
+Cote d'Ivoire,1952,2977019
+Cote d'Ivoire,1957,3300000
+Cote d'Ivoire,1962,3832408
+Cote d'Ivoire,1972,6071696
+Cote d'Ivoire,1967,4744870
+Cote d'Ivoire,1987,10761098
+Cote d'Ivoire,1992,12772596
+Cote d'Ivoire,1982,9025951
+Cote d'Ivoire,1997,14625967
+Cote d'Ivoire,2007,18013409
+Cote d'Ivoire,2002,16252726
+Cote d'Ivoire,1977,7459574

@@ -1,0 +1,12 @@
+Djibouti,1952,63149
+Djibouti,1957,71851
+Djibouti,1967,127617
+Djibouti,1972,178848
+Djibouti,1982,305991
+Djibouti,1977,228694
+Djibouti,1962,89898
+Djibouti,1987,311025
+Djibouti,1992,384156
+Djibouti,1997,417908
+Djibouti,2002,447416
+Djibouti,2007,496374

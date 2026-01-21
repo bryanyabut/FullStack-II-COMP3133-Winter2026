@@ -1,0 +1,12 @@
+Mozambique,1952,6446316
+Mozambique,1957,7038035
+Mozambique,1962,7788944
+Mozambique,1972,9809596
+Mozambique,1987,12891952
+Mozambique,1967,8680909
+Mozambique,1982,12587223
+Mozambique,1977,11127868
+Mozambique,2002,18473780
+Mozambique,2007,19951656
+Mozambique,1992,13160731
+Mozambique,1997,16603334

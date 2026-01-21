@@ -1,0 +1,12 @@
+Puerto Rico,1952,2227000
+Puerto Rico,1967,2648961
+Puerto Rico,1972,2847132
+Puerto Rico,1977,3080828
+Puerto Rico,1962,2448046
+Puerto Rico,1987,3444468
+Puerto Rico,1992,3585176
+Puerto Rico,1982,3279001
+Puerto Rico,2002,3859606
+Puerto Rico,2007,3942491
+Puerto Rico,1997,3759430
+Puerto Rico,1957,2260000

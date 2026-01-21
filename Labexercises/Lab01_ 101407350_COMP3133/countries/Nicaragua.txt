@@ -1,0 +1,12 @@
+Nicaragua,1952,1165790
+Nicaragua,1957,1358828
+Nicaragua,1962,1590597
+Nicaragua,1972,2182908
+Nicaragua,1987,3344353
+Nicaragua,1967,1865490
+Nicaragua,1982,2979423
+Nicaragua,1997,4609572
+Nicaragua,2002,5146848
+Nicaragua,1977,2554598
+Nicaragua,2007,5675356
+Nicaragua,1992,4017939

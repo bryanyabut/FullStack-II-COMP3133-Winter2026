@@ -1,0 +1,12 @@
+Swaziland,1952,290243
+Swaziland,1957,326741
+Swaziland,1962,370006
+Swaziland,1972,480105
+Swaziland,1987,779348
+Swaziland,1982,649901
+Swaziland,1977,551425
+Swaziland,1997,1054486
+Swaziland,2002,1130269
+Swaziland,1967,420690
+Swaziland,2007,1133066
+Swaziland,1992,962344

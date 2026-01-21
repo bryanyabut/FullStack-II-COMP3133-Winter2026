@@ -1,0 +1,12 @@
+Saudi Arabia,1957,4419650
+Saudi Arabia,1952,4005677
+Saudi Arabia,1962,4943029
+Saudi Arabia,1972,6472756
+Saudi Arabia,1967,5618198
+Saudi Arabia,1987,14619745
+Saudi Arabia,1982,11254672
+Saudi Arabia,1977,8128505
+Saudi Arabia,1997,21229759
+Saudi Arabia,2002,24501530
+Saudi Arabia,2007,27601038
+Saudi Arabia,1992,16945857

@@ -1,0 +1,12 @@
+South Africa,1952,14264935
+South Africa,1957,16151549
+South Africa,1967,20997321
+South Africa,1962,18356657
+South Africa,1972,23935810
+South Africa,1987,35933379
+South Africa,1982,31140029
+South Africa,1977,27129932
+South Africa,2002,44433622
+South Africa,1997,42835005
+South Africa,2007,43997828
+South Africa,1992,39964159

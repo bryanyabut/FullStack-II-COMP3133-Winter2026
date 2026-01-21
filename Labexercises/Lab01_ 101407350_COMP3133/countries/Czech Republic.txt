@@ -1,0 +1,12 @@
+Czech Republic,1952,9125183
+Czech Republic,1957,9513758
+Czech Republic,1967,9835109
+Czech Republic,1962,9620282
+Czech Republic,1982,10303704
+Czech Republic,1987,10311597
+Czech Republic,1992,10315702
+Czech Republic,1997,10300707
+Czech Republic,2007,10228744
+Czech Republic,2002,10256295
+Czech Republic,1972,9862158
+Czech Republic,1977,10161915

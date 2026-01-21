@@ -1,0 +1,12 @@
+Burkina Faso,1952,4469979
+Burkina Faso,1957,4713416
+Burkina Faso,1967,5127935
+Burkina Faso,1962,4919632
+Burkina Faso,1972,5433886
+Burkina Faso,1987,7586551
+Burkina Faso,1977,5889574
+Burkina Faso,1997,10352843
+Burkina Faso,1992,8878303
+Burkina Faso,2002,12251209
+Burkina Faso,2007,14326203
+Burkina Faso,1982,6634596

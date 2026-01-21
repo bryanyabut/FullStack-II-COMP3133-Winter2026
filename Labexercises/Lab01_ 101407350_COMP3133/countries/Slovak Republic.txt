@@ -1,0 +1,12 @@
+Slovak Republic,1952,3558137
+Slovak Republic,1957,3844277
+Slovak Republic,1962,4237384
+Slovak Republic,1972,4593433
+Slovak Republic,1967,4442238
+Slovak Republic,1987,5199318
+Slovak Republic,1992,5302888
+Slovak Republic,1982,5048043
+Slovak Republic,2002,5410052
+Slovak Republic,2007,5447502
+Slovak Republic,1997,5383010
+Slovak Republic,1977,4827803

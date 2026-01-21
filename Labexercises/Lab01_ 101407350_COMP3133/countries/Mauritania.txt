@@ -1,0 +1,12 @@
+Mauritania,1952,1022556
+Mauritania,1957,1076852
+Mauritania,1962,1146757
+Mauritania,1972,1332786
+Mauritania,1967,1230542
+Mauritania,1987,1841240
+Mauritania,1992,2119465
+Mauritania,1997,2444741
+Mauritania,1982,1622136
+Mauritania,1977,1456688
+Mauritania,2007,3270065
+Mauritania,2002,2828858

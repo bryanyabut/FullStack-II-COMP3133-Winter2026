@@ -1,0 +1,12 @@
+Guinea-Bissau,1952,580653
+Guinea-Bissau,1957,601095
+Guinea-Bissau,1967,601287
+Guinea-Bissau,1977,745228
+Guinea-Bissau,1987,927524
+Guinea-Bissau,1962,627820
+Guinea-Bissau,1992,1050938
+Guinea-Bissau,1972,625361
+Guinea-Bissau,2002,1332459
+Guinea-Bissau,2007,1472041
+Guinea-Bissau,1997,1193708
+Guinea-Bissau,1982,825987

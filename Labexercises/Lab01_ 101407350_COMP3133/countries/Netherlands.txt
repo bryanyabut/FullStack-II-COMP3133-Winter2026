@@ -1,0 +1,12 @@
+Netherlands,1952,10381988
+Netherlands,1957,11026383
+Netherlands,1967,12596822
+Netherlands,1962,11805689
+Netherlands,1982,14310401
+Netherlands,1987,14665278
+Netherlands,1972,13329874
+Netherlands,1997,15604464
+Netherlands,1977,13852989
+Netherlands,1992,15174244
+Netherlands,2007,16570613
+Netherlands,2002,16122830

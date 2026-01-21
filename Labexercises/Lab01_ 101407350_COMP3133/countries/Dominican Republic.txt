@@ -1,0 +1,12 @@
+Dominican Republic,1952,2491346
+Dominican Republic,1957,2923186
+Dominican Republic,1962,3453434
+Dominican Republic,1972,4671329
+Dominican Republic,1967,4049146
+Dominican Republic,1977,5302800
+Dominican Republic,1987,6655297
+Dominican Republic,1997,7992357
+Dominican Republic,1982,5968349
+Dominican Republic,2007,9319622
+Dominican Republic,1992,7351181
+Dominican Republic,2002,8650322

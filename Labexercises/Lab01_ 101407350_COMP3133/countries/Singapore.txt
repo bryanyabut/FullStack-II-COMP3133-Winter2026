@@ -1,0 +1,12 @@
+Singapore,1952,1127000
+Singapore,1957,1445929
+Singapore,1967,1977600
+Singapore,1972,2152400
+Singapore,1962,1750200
+Singapore,1987,2794552
+Singapore,1992,3235865
+Singapore,1977,2325300
+Singapore,2002,4197776
+Singapore,1982,2651869
+Singapore,1997,3802309
+Singapore,2007,4553009

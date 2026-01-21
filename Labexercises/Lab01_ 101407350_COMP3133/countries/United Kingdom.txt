@@ -1,0 +1,12 @@
+United Kingdom,1952,50430000
+United Kingdom,1957,51430000
+United Kingdom,1967,54959000
+United Kingdom,1962,53292000
+United Kingdom,1982,56339704
+United Kingdom,1987,56981620
+United Kingdom,1972,56079000
+United Kingdom,1992,57866349
+United Kingdom,1977,56179000
+United Kingdom,1997,58808266
+United Kingdom,2007,60776238
+United Kingdom,2002,59912431
