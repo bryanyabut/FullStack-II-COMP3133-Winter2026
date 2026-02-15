@@ -94,9 +94,11 @@ app.get('/employees/search', async (req, res) => {
     const fname = req.query.firstname
     const lname = req.query.lastname
 
-    const employees = await employeeModel.find({firstname : new RegExp(fname, 'i'), lastname : new RegExp(lname, 'i')});
+    //alternatively - chekc for query parameter values: cannot be empty
 
-    // const employees = await employeeModel.find({ $or: [{firstname : new RegExp(fname, 'i')}, {lastname : new RegExp(lname, 'i')}]});
+    // const employees = await employeeModel.find({firstname : new RegExp(fname, 'i'), lastname : new RegExp(lname, 'i')});
+
+    const employees = await employeeModel.find({ $or: [{firstname : new RegExp(fname, 'i')}, {lastname : new RegExp(lname, 'i')}]});
 
     //example : { $or: [{ name: "Rambo" }, { breed: "Pugg" }, { age: 2 }] },
     //example : { $and: [{ name: "Rambo" }, { breed: "Pugg" }, { age: 2 }] },
