@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src", //source code directory when your TypeScript files should be
+    "outDir": "./dist", //distribution directory where the compiled JS files will be saved
+  }
+}
