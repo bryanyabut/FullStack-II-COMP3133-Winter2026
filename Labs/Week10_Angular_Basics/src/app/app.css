@@ -1,0 +1,30 @@
+.container{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    background: #fafafa;
+}
+
+button {
+    padding: 8px 14px;
+    border: none;
+    background: #007acc;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #005fa3;
+}
+
+.note {
+    font-size: 0.85em;
+    color: #555;
+}

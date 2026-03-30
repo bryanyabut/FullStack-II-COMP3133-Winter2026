@@ -1,0 +1,161 @@
+:host {
+  font-family: 0 2px 7px rgba(0, 0, 0, 0.1);
+  font-family: Calibri, sans-serif;
+  text-align: center;
+  transition: transform 0.2s;
+  max-width: 220px;
+  margin: auto;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+.product-title {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #0077cc;
+  margin-bottom: 8px;
+  height: 40px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 110px;
+  margin-bottom: 10px;
+}
+
+.image-container img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.price-label {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0;
+}
+
+.price {
+  font-size: 1.2rem;
+  color: green;
+  margin: 4px 0 10px 0;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0 10px 0;
+  font-size: 0.9rem;
+}
+
+.stock {
+  color: green;
+}
+
+.stock.out {
+  color: red;
+}
+
+.category {
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 4px;
+}
+
+.empty {
+  text-align: center;
+  margin-top: 20px;
+  color: #777;
+}
+
+.hint {
+  text-align: center;
+  margin-top: 10px;
+  color: #666;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  min-width: 180px;
+}
+
+.form-group.inline {
+  flex-direction: row;
+  align-items: center;
+  gap: 6px;
+}
+
+input,
+select {
+  padding: 8px 12px;
+  border: 1px solid #bbb;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+button {
+  padding: 9px 15px;
+  border: none;
+  border-radius: 6px;
+  background: #0077cc;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+.clear-btn {
+  background: #666;
+}
+
+.clear-btn:hover {
+  background: #444;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 10px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 12px;
+  text-align: center;
+  width: 220px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 12;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+  position: relative;
+  margin: auto;
+}

@@ -1,0 +1,79 @@
+<h1> Week 10 - Angular Basics </h1>
+
+<div class="container">
+
+  <h1> Welcome to Angular Basics</h1>
+
+  <section class="card">
+    <h2>Interpolation</h2>
+
+    <p> Student ID: {{ studentID }} </p>
+    <p> Name: {{ myName }} </p>
+  </section>
+
+  <section class="card">
+    <h2>Event Binding</h2>
+
+    <button (click)="greetButtonClicked()"> Greetings </button>
+
+  </section>
+
+
+  <section class="card">
+    <h2>Property Binding</h2>
+    <img [src]="imageURL" alt="Magnolia Flowers" width="100px" height="100px">
+
+    <h2>Interpolation IMG</h2>
+    <img src="{{ imageURL }}" alt="Magnolia Flowers" width="100px" height="100px">
+
+  </section>
+
+  <section class="card">
+    <h2>Date Pipe Examples</h2>
+
+    <p>Today : {{ today }}</p>
+    <ul>
+      <li>Date : {{ today | date }}</li>
+      <li>Long : {{ today | date:'long' }}</li>
+      <li>Medium : {{ today | date:'medium' }}</li>
+      <li>Short : {{ today | date:'short' }}</li>
+      <li>Custom : {{ today | date: 'dd-MM-yyyy'}}</li>
+    </ul>
+
+  </section>
+
+  <section class="card">
+    <h2>Currency Pipe Examples</h2>
+
+    <ul>
+      <li>Default : {{ amount }}</li>
+      <li>Currency : {{ amount | currency }}</li>
+      <li>EUR : {{ amount | currency:'EUR' }}</li>
+      <li>GBP : {{ amount | currency:'GBP' }}</li>
+      <li>USD : {{ amount | currency:'USD':'code' }}</li>
+      <li>CAD : {{ amount | currency:'CAD':'code' }}</li>
+      <li>AUD (narrow symbol) : {{ amount | currency:'AUD':'symbol-narrow' }}</li>
+    </ul>
+
+  </section>
+
+  <section class="card">
+    <h2>Number Pipe Examples</h2>
+
+    <ul>
+      <li>Default : {{ amount }}</li>
+      <li>2 decimals : {{ 12.938336 | number:'1.2-2' }}</li>
+      <li>minimum 3 integer : {{ 12.938336 | number:'3.0-0' }}</li>
+      <li>Percentage : {{ 15.89 | percent }}</li>
+      <li>Percentage : {{ 0.1589 | percent }}</li>
+    </ul>
+
+  </section>
+
+  <section class="card">
+    <h2>Nested / Child component - Product</h2>
+
+    <app-product></app-product>
+  </section>
+
+</div>
