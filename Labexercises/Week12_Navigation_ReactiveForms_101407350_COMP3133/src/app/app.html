@@ -1,0 +1,22 @@
+<div class="page-container">
+
+  <header class="header">
+    <h1> {{ title() }} </h1>
+  </header>
+
+  <nav class = "navbar">
+    <a routerLink = "/home"> Home </a>
+    <a routerLink = "/order"> Order Form </a>
+    <a routerLink = "/profile"> Profile </a>
+  </nav>
+
+  <main class = "content">
+    <section class = "card">
+      <router-outlet />
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Jupiter labs Inc.</p>
+  </footer>
+</div>
